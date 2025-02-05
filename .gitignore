@@ -1,7 +1,7 @@
 /target/
 .project
 .classpath
-.settings/
+/.settings/
 test-output/
 reports/
 screenshots/
@@ -10,3 +10,4 @@ logs/
 *.jar
 *.war
 *.exe
+*.bat
