@@ -10,7 +10,9 @@ import org.openqa.selenium.safari.SafariDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import io.github.bonigarcia.wdm.config.DriverManagerType;
-
+/**
+ * Used for browser manager
+ */
 public class BrowserManager extends BaseClass {
 
 	public WebDriver lauchWebsiteByBrowser(String browser, String website) {
